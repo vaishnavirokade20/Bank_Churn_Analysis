@@ -44,20 +44,5 @@ To design and deploy an **end-to-end 3-tier data analytics architecture** that:
 │  Tier 1: Python      │ ──> │  Tier 2: SQL Server  │ ──> │  Tier 3: Power BI    │
 │  (Data Prep / ETL)   │     │  (Exploratory Analytics)│  │  (Executive BI)      │
 └──────────────────────┘     └──────────────────────┘     └──────────────────────┘
-
----
-## 💡 Strategic Recommendations
-
-1. **Targeted Product Cross-Selling:** Single-product holders have a churn rate of **27.71%**. Customers holding two products show a significantly lower churn rate of **7.58%**, highlighting an opportunity for targeted cross-selling strategies.
-
-2. **German Market Focus:** Prioritize customer retention campaigns in Germany, which has a **32.44% churn rate** and accounts for **€96.9M (52.2%)** of total lost capital, with an average customer balance of **€119.7K**.
-
-3. **Automated Inactivity Alerts:** Inactivity is associated with increased churn risk, reaching **38.9% among inactive German customers**. Implement automated re-engagement alerts for high-balance customers with no digital activity for 60+ days.
-
 ---
 
-## ⚠️ Project Disclaimer
-
-> **Disclaimer:** This project was developed solely for portfolio demonstration and technical evaluation. All customer data is simulated/synthetic. Financial risk figures do not represent any real banking institution. Code and project materials are provided under the open-source MIT License.
-
----
