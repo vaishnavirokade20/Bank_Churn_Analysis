@@ -38,3 +38,5 @@ To design and deploy an **end-to-end 3-tier data analytics architecture** that:
 │  Tier 1: Python      │ ──> │  Tier 2: SQL Server  │ ──> │  Tier 3: Power BI    │
 │  (Data Prep / ETL)   │     │  (Exploratory Analytics)│  │  (Executive BI)      │
 └──────────────────────┘     └──────────────────────┘     └──────────────────────┘
+
+![Power BI Dashboard Preview](screenshots/Dashboard%20Preview.png)
