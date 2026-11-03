@@ -39,4 +39,4 @@ To design and deploy an **end-to-end 3-tier data analytics architecture** that:
 │  (Data Prep / ETL)   │     │  (Exploratory Analytics)│  │  (Executive BI)      │
 └──────────────────────┘     └──────────────────────┘     └──────────────────────┘
 
-![Power BI Dashboard Preview](screenshots/Dashboard%20Preview.png)
+![Power BI Dashboard Preview](Dashboard%20Preview.png)
