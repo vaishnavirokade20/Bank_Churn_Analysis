@@ -4,6 +4,12 @@ An end-to-end data analytics project examining customer attrition across **10,00
 
 ---
 
+## 📊 Power BI Dashboard
+
+<p align="center">
+  <img src="Dashboard%20Preview.png" alt="Bank Churn Dashboard" width="100%">
+</p>
+
 ## 📌 1. Business Problem & Project Objective
 
 ### Business Problem
