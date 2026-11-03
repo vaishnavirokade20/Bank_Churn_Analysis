@@ -45,6 +45,16 @@ To design and deploy an **end-to-end 3-tier data analytics architecture** that:
 │  (Data Prep / ETL)   │     │  (Exploratory Analytics)│  │  (Executive BI)      │
 └──────────────────────┘     └──────────────────────┘     └──────────────────────┘
 
-## 📊 Dashboard Preview
+---
 
-![Bank Churn Analysis Dashboard](Dashboard%20Preview.png)
+## 💡 Strategic Recommendations
+
+1. **Targeted 1-to-2 Product Cross-Selling:** Single-product holders churn at **27.71%**. Cross-selling a second low-barrier product drops churn by **72% down to 7.58%**.
+2. **German Market Focus:** Direct retention efforts toward Germany, which has a **32.44% churn rate** and accounts for **€96.9M (52.2%)** of total lost capital due to high average balances (€119.7K).
+3. **Automate Inactivity Alerts:** Inactivity doubles churn risk, reaching **38.9% among inactive German members**. Trigger automated re-engagement outreach when high-balance accounts show zero digital activity for 60+ days.
+
+---
+
+## ⚠️ Project Disclaimer
+
+> **Disclaimer:** This project was developed solely for portfolio demonstration and technical evaluation. All customer data is simulated/synthetic, financial risk figures do not represent any real banking institution, and code/models are provided under the open-source MIT License.
